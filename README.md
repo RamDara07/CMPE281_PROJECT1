@@ -1,8 +1,11 @@
 CMPE 281: cloudProject-1
 
 University Name: San Jose State University http://www.sjsu.edu/
+
 Course: Cloud Technologies
+
 Professor: Sanjay Garje
+
 Student: Ram Dara
 
 
@@ -39,9 +42,13 @@ Amazon Cognito: Create the userpool for users to sign up or sign in to the appli
 Required Libraries:
 
 boto3==1.17.17
+
 Collectfast==2.2.0
+
 Django==3.1.7
+
 django-environ==0.4.5
+
 psycopg2-binary==2.8.6
 
 
